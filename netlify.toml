@@ -19,3 +19,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+	from = "/*"
+	to = "/404/"
+	status = 404
