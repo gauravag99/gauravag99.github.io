@@ -17,6 +17,7 @@ marketing:
   analytics:
     google_analytics: 'G-RZ4D380Q6H'
     google_tag_manager: 'G-RZ4D380Q6H'
+    
   # seo:
     # site_type: Person
 #     local_business_type: ''
