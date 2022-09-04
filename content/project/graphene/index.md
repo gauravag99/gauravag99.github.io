@@ -1,7 +1,7 @@
 
 ---
 title: Graphene - Electronic Properties and Defects
-summary: Graphene's tight-binding model with next-nearest neighbour hopping is often ignored, here I go through the math - not mentioned anywhere - and build from the ground up the band structure and teh bizzare electronic properties. Next, we introduce some sustitutional defects into the lattice and employ the Koster-Slater model to study them.
+summary: Graphene's tight-binding model with next-nearest neighbour hopping is often ignored, here I go through the math - not mentioned anywhere - and build from the ground up the band structure and the bizzare electronic properties. Next, we introduce some sustitutional defects into the lattice and employ the Koster-Slater model to study them.
 tags:
   - cmp
 date: '2021-12-27T00:00:00Z'

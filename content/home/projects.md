@@ -10,9 +10,8 @@ headless: true
 weight: 25
 
 title: Projects
-subtitle: |3-
-          “Insight must 
-          precede application.”
+subtitle: |2-
+          “Insight must precede application.”
           ― Max Planck
 
 content:

@@ -14,14 +14,15 @@ appearance:
 # SEO
 
 marketing:
+  analytics:
+    google_analytics: 'G-RZ4D380Q6H'
+    google_tag_manager: 'G-RZ4D380Q6H'
   # seo:
     # site_type: Person
 #     local_business_type: ''
 #     org_name: ''
 #     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
 #     twitter: 'wowchemy'
-  analytics:
-    google_analytics: 'G-RZ4D380Q6H'
 #     baidu_tongji: ''
 #   verification:
 #     google: ''

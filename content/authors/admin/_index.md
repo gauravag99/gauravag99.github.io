@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/gauravagarwal99/
   - icon: discord
     icon_pack: fab
-    link: 'gauravag#2190'
+    link: 'https://discordapp.com/users/gauravag#2190'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -79,4 +79,5 @@ Recently, I have been working towards my Master's Thesis involving QM's FPGA mod
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-```Simple means genius. Simple means genuine.```
+<span style="color:red">"*Simple means genius. Simple means genuine.*"</span>
+
