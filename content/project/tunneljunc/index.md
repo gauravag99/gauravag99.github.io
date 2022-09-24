@@ -1,6 +1,6 @@
 ---
 title: Superconducting Tunnel Junctions
-summary: One of the most mind-blowing ways of confirming BCS theory is superconducting junctions. Sandwich an insulator between a superconductor and a metal and you can only have conductivity once the bias you provide is above BCS band gap. I simulated, measured and analysed the behaviour of superconducting tunnel junctions with and without axial magnetic feilds in this porject.
+summary: One of the most mind-blowing ways of confirming BCS theory is superconducting junctions. Sandwich an insulator between a superconductor and a metal and you can only have conductivity once the bias you provide is above BCS band gap. I simulated, measured and analysed the behaviour of superconducting tunnel junctions with and without axial magnetic feilds in this project.
 tags:
   - supercond
 date: '2022-05-01T00:00:00Z'

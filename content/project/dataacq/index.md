@@ -10,7 +10,7 @@ date: '2019-06-28T00:00:00Z'
 external_link: ''
 
 image:
-  caption: A sample of Brownian 
+  caption: Arduino Uno 
   focal_point: Smart
 
 links:
