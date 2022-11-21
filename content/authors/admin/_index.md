@@ -71,7 +71,7 @@ highlight_name: true
 
 I'm currently pursuing an  integrated masters in Physics currently at the Centre for Excellence in Basic Sciences, Mumbai. I like diving into technical problems whilst working with my hands as well behind the keyboard.
 
-Recently, I have been working towards my Master's Thesis involving QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using deep reinforcement learning as well as component optimisation on the superconducting qubits platform at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/). The final goal is a 7-qubit processor for the Defence Research and Development Organisation (DRDO), Govt. of India.
+Recently, I have been working towards my Master's Thesis involving QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation on the superconducting qubits platform at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/). The final goal is a 7-qubit processor for the Defence Research and Development Organisation (DRDO), Govt. of India.
 
 
 
