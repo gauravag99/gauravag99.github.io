@@ -3,7 +3,7 @@ title: Two stage double frequency up-conversion scheme
 summary: We tested a double frequency upconversion scheme to generate microwave pulses for control and readout of qubits which aims to reduce the number of required modulating signals to one, eschews periodic calibrations and accommodates a wider range of qubit frequencies
 tags:
   - QC
-  -inst
+  - inst
 date: '2022-12-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
