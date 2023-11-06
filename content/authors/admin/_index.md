@@ -69,15 +69,12 @@ highlight_name: true
 ---
 
 
-I'm currently pursuing an  integrated masters in Physics currently at the Centre for Excellence in Basic Sciences, Mumbai. I like diving into technical problems whilst working with my hands as well behind the keyboard.
+I'm currently a first year Physics graduate student at the University of Pittsburgh. I like diving into technical problems whilst working with my hands as well behind the keyboard.
 
-Recently, I have been working towards my Master's Thesis involving QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation of the RF chain on the superconducting qubits platform for a 7 qubit ring resonator coupled processor at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/). 
+Recently, I have been working towards building a 'universal' data logger for the [Hatlab](http://hatlab.pitt.edu/) for lab instruments with ESP32(s) and Pi.  My previous work for my Master's Thesis involved QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation of the RF chain on the superconducting qubits platform for a 7 qubit ring resonator coupled processor at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/).
 
 
 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-<span style="color:red">"*Simple means genius. Simple means genuine.*"</span>
-
