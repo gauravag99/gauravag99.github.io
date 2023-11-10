@@ -6,12 +6,14 @@ title: Gaurav Agarwal
 superuser: true
 
 # Role/position/tagline
-role: Masters in Physics
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Centre for Excellence in Basic Sciences, Mumbai
-    url: https://www.cbs.ac.in/
+  - name: Univeristy of Pittsburgh, USA
+    url: https://www.physicsandastronomy.pitt.edu/
+  - name: HATLAB
+    url : http://hatlab.pitt.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum computing on superconducting platforms, machine learning and condensed matter physics.
@@ -71,7 +73,7 @@ highlight_name: true
 
 I'm currently a first year Physics graduate student at the University of Pittsburgh. I like diving into technical problems whilst working with my hands as well behind the keyboard.
 
-Recently, I have been working towards building a 'universal' data logger for the [Hatlab](http://hatlab.pitt.edu/) for lab instruments with ESP32(s) and Pi.  My previous work for my Master's Thesis involved QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation of the RF chain on the superconducting qubits platform for a 7 qubit ring resonator coupled processor at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/).
+Recently, I have been working towards building a 'universal' data logger for the [Hatlab](http://hatlab.pitt.edu/) for lab instruments with ESP32(s) and Pi.  My previous work for my Master's Thesis involved QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation of the RF chain on the superconducting qubits platform at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/).
 
 
 
