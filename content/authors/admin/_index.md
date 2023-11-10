@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Univeristy of Pittsburgh, USA
+  - name: University of Pittsburgh, USA
     url: https://www.physicsandastronomy.pitt.edu/
   - name: HATLAB
     url : http://hatlab.pitt.edu/ 
