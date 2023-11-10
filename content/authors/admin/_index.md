@@ -39,7 +39,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gaurav.agarwal@cbs.ac.in'
+    link: 'mailto:ga88@pitt.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Gauravagarw
